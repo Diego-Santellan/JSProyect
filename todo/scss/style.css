@@ -1,0 +1,107 @@
+span.deteleProduct {
+  background: #ffd500;
+  border-radius: 100%;
+  width: 33px;
+  height: 33px;
+  text-align: center;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
+header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+}
+
+header nav {
+  width: 90%;
+}
+
+header div#carrito {
+  width: 8%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+header button#carrito {
+  height: 8px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+main {
+  width: 100%;
+  padding: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 800px;
+  background-image: url(../image/fondo2.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+main #catalogo {
+  width: 80%;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 0.7fr 0.7fr 0.7fr;
+      grid-template-columns: 0.7fr 0.7fr 0.7fr;
+}
+
+main #catalogo div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+}
+
+main #catalogo div div.articulo {
+  border: 2px solid #000;
+  margin: 15px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: rgba(198, 195, 193, 0.792);
+  opacity: 0.99;
+}
+
+main #catalogo div div.articulo img {
+  width: 17vw;
+  height: 25vh;
+}
+
+main #filtrado {
+  width: 20%;
+}
+/*# sourceMappingURL=style.css.map */

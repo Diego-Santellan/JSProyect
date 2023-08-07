@@ -1,0 +1,197 @@
+{
+    "productos":[
+        {
+            "nombre":"Lomboard",
+            "precio":14000,
+            "image":"./todo/image/lomboard.1.png",
+            "id":1,
+            "destacado":1
+        },
+        {
+            "nombre":"Lomboard",
+            "precio":14000,
+            "image":"./todo/image/lomboard.2.png",
+            "id":2,
+            "destacado":1
+        },
+        {
+            "nombre":"Lomboard",
+            "precio":14000,
+            "image":"./todo/image/lomboard.3.png",
+            "id":3,
+            "destacado":1
+
+        },
+        {
+            "nombre":"Penny",
+            "precio":4000,
+            "image":"./todo/image/penny1x.png",
+            "id":4,
+            "destacado":1
+
+        },
+        {
+            "nombre":"Penny",
+            "precio":4000,
+            "image":"./todo/image/penny2.png",
+            "id":5,
+            "destacado":1
+
+        },
+        {
+            "nombre":"Penny",
+            "precio":4000,
+            "image":"./todo/image/penny3.png",
+            "id":6,
+            "destacado":1
+
+        },
+        {
+            "nombre":"Skate",
+            "precio":10000,
+            "image":"./todo/image/skate1.png",
+            "id":7,
+            "destacado":1
+
+        },
+        {
+            "nombre":"Skate",
+            "precio":10000,
+            "image":"./todo/image/skate2.png",
+            "id":8,
+            "destacado":1
+
+        },
+        {
+            "nombre":"Skate",
+            "precio":10000,
+            "image":"./todo/image/skate3.png",
+            "id":9,
+            "destacado":1
+
+        },
+        {
+            "nombre":"Medias m&m",
+            "precio":500,
+            "image":"./todo/image/mediasMyM.png",
+            "id":10,
+            "destacado":1
+
+        },
+        {
+            "nombre":"Medias Nike",
+            "precio":500,
+            "image":"./todo/image/mediasNike.png",
+            "id":11,
+            "destacado":1
+
+        },
+        {
+            "nombre":"Medias Vans",
+            "precio":500,
+            "image":"./todo/image/mediasVans.png",
+            "id":12,
+            "destacado":1
+
+        },
+        {
+            "nombre":"Medias Star Wars",
+            "precio":500,
+            "image":"./todo/image/mediasStarWars.png",
+            "id":13,
+            "destacado":1
+
+        },
+        {
+            "nombre":"Medias Star Wars",
+            "precio":500,
+            "image":"./todo/image/mediasStarWars2.png",
+            "id":14,
+            "destacado":1
+
+        },
+        {
+            "nombre":"Medias Star Wars",
+            "precio":500,
+            "image":"./todo/image/mediasStarWars3.png",
+            "id":15,
+            "destacado":1
+            
+        },
+        {
+            "nombre":"Buzo Dark",
+            "precio":3500,
+            "image":"./todo/image/buzoAngel.png",
+            "id":16,
+            "destacado":1
+            
+        },
+        {
+            "nombre":"Buzo Barderos",
+            "precio":3500,
+            "image":"./todo/image/buzoBarderos.png",
+            "id":17,
+            "destacado":1
+            
+        },
+        {
+            "nombre":"Buzo Fire",
+            "precio":3500,
+            "image":"./todo/image/buzoFire.png",
+            "id":18,
+            "destacado":1
+            
+        },
+        {
+            "nombre":"Buzo black & white",
+            "precio":3500,
+            "image":"./todo/image/buzoHappy.png",
+            "id":19,
+            "destacado":1
+            
+        },
+        {
+            "nombre":"Buzo Pokemon",
+            "precio":3500,
+            "image":"./todo/image/buzoPokemon.png",
+            "id":20,
+            "destacado":1
+            
+        },
+        {
+            "nombre":"Buzo Rebels",
+            "precio":3500,
+            "image":"./todo/image/buzoRebels.png",
+            "id":21,
+            "destacado":1
+            
+        },
+        {
+            "nombre":"Casco Caballero",
+            "precio":3500,
+            "image":"./todo/image/cascoCaballero.png",
+            "id":22,
+            "destacado":1
+            
+        },
+        {
+            "nombre":"Casco Negro",
+            "precio":3500,
+            "image":"./todo/image/cascoNegro.png",
+            "id":23,
+            "destacado":1
+            
+        },
+        {
+            "nombre":"casco Oneal",
+            "precio":3500,
+            "image":"./todo/image/cascoOneal.png",
+            "id":24,
+            "destacado":1
+            
+        }
+        
+    ]
+
+}
+
